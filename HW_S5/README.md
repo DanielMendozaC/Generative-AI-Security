@@ -10,8 +10,7 @@ controlled and harmless way.
 
 ## ⚡ What it shows
 
--   **SQL Injection**: Constructs an unsafe SQL query string (but never
-    executes it). Also shows the safe parameterized alternative.
+-   **SQL Injection**: Constructs an unsafe SQL query string. Also shows the safe parameterized alternative.
 -   **File Access**: Simulates insecure file reads but restricts access
     to a small whitelist of demo files.
 -   **Command Execution**: Demonstrates command injection risks by
