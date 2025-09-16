@@ -10,8 +10,7 @@ controlled and harmless way.
 
 ## ⚡ What it shows
 
--   **SQL Injection**: Constructs an unsafe SQL query string (but never
-    executes it). Also shows the safe parameterized alternative.
+-   **SQL Injection**: Constructs an unsafe SQL query string. Also shows the safe parameterized alternative.
 -   **File Access**: Simulates insecure file reads but restricts access
     to a small whitelist of demo files.
 -   **Command Execution**: Demonstrates command injection risks by
@@ -88,25 +87,3 @@ When running `client.py`, you will see JSON responses such as:
   "note": "simulated output"
 }
 ```
-
-------------------------------------------------------------------------
-
-## 🎯 Classroom Use
-
-You can present this demo by: 1. Running the client and showing each
-JSON response.\
-2. Explaining how it relates to real vulnerabilities.\
-3. Highlighting the safe mitigations (parameterized queries,
-whitelisting, sandboxing).
-
-This project is **safe by design** --- no real system commands or file
-reads are executed.
-
-------------------------------------------------------------------------
-
-## 📌 Notes
-
--   For extra safety, you can run this inside a Docker container with
-    networking disabled.\
--   This demo is **educational only** and not intended for production
-    use.
