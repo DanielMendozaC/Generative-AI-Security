@@ -1,0 +1,9 @@
+{"timestamp": "2025-10-05T22:01:06.584031", "function": "read_file", "decision": "ALLOWED"}
+{"timestamp": "2025-10-05T22:01:08.951806", "function": "delete_file", "decision": "BLOCKED"}
+{"timestamp": "2025-10-05T22:01:11.378739", "function": "write_file", "decision": "BLOCKED"}
+{"timestamp": "2025-10-05T22:10:09.945498", "function": "read_file", "decision": "ALLOWED"}
+{"timestamp": "2025-10-05T22:10:12.237569", "function": "delete_file", "decision": "BLOCKED"}
+{"timestamp": "2025-10-05T22:10:15.067413", "function": "write_file", "decision": "ALLOWED"}
+{"timestamp": "2025-10-05T22:32:10.587315", "function": "read_file", "decision": "ALLOWED"}
+{"timestamp": "2025-10-05T22:32:12.860867", "function": "delete_file", "decision": "BLOCKED"}
+{"timestamp": "2025-10-05T22:32:15.202291", "function": "write_file", "decision": "ALLOWED"}

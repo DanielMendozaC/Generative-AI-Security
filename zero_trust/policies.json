@@ -1,0 +1,11 @@
+{
+    "read_file": {
+      "allowed": true
+    },
+    "delete_file": {
+      "allowed": false
+    },
+    "write_file": {
+      "allowed": true
+    }
+  }
