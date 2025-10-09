@@ -6,6 +6,6 @@
       "allowed": false
     },
     "write_file": {
-      "allowed": true
+      "allowed": false
     }
   }

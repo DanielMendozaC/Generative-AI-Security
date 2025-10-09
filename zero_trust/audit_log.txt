@@ -7,3 +7,10 @@
 {"timestamp": "2025-10-05T22:32:10.587315", "function": "read_file", "decision": "ALLOWED"}
 {"timestamp": "2025-10-05T22:32:12.860867", "function": "delete_file", "decision": "BLOCKED"}
 {"timestamp": "2025-10-05T22:32:15.202291", "function": "write_file", "decision": "ALLOWED"}
+{"timestamp": "2025-10-08T22:56:22.086907", "function": "write_file", "decision": "ALLOWED"}
+{"timestamp": "2025-10-08T22:59:17.696793", "function": "write_file", "decision": "BLOCKED"}
+{"timestamp": "2025-10-08T23:08:44.013421", "function": "read_file", "decision": "ALLOWED"}
+{"timestamp": "2025-10-08T23:09:37.860937", "function": "read_file", "decision": "ALLOWED"}
+{"timestamp": "2025-10-08T23:11:32.840028", "function": "read_file", "decision": "ALLOWED"}
+{"timestamp": "2025-10-08T23:14:36.048184", "function": "read_file", "decision": "ALLOWED"}
+{"timestamp": "2025-10-08T23:17:55.311960", "function": "delete_file", "decision": "BLOCKED"}
