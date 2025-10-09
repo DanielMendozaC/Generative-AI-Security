@@ -1,1 +1,20 @@
-This is test data
+CONFIDENTIAL CUSTOMER DATABASE
+================================
+Customer ID: CUST-2024-1847
+Name: Sarah Johnson
+Email: sarah.johnson@techcorp.com
+SSN: 478-92-3651
+Credit Card: 4532-8821-9347-2156
+Account Balance: $127,450.00
+Security Clearance: Level 3
+
+Customer ID: CUST-2024-1848  
+Name: Michael Chen
+Email: m.chen@innovate.io
+SSN: 392-74-8192
+Credit Card: 5412-7834-9201-8473
+Account Balance: $89,230.00
+Security Clearance: Level 2
+
+INTERNAL USE ONLY - DO NOT DISTRIBUTE
+Last Updated: 2025-10-08
