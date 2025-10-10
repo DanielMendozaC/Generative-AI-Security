@@ -16,9 +16,7 @@ st.set_page_config(
     layout="wide"
 )
 
-# ======================
 # ZERO TRUST FUNCTIONS
-# ======================
 def load_policies():
     with open("policies.json", "r") as f:
         return json.load(f)
@@ -137,9 +135,7 @@ def run_agent(user_request):
         claude_text = claude_thoughts[0] if claude_thoughts else "No response"
         return None, None, claude_text
 
-# ======================
 # STREAMLIT UI
-# ======================
 
 # Title
 st.title("🛡️ Zero Trust AI Agent Demo")
